@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Analdo de Melo**!  
 
-🚀 **Software Developer | ReactJS | Node.js | TypeScript Enthusiast**  
+🚀 **Web Developer | ReactJS | Node.js | TypeScript Enthusiast**  
 
 🎯 Passionate about building scalable web applications and solving real-world problems through code.  
 
