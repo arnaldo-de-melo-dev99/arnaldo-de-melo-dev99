@@ -25,7 +25,7 @@
 💡 **Matchmaking Platform** – Helping startups find investors & business partners  
 
 ## 🚀 Let's Connect!  
-💼 [LinkedIn](www.linkedin.com/in/arnaldo-de-melo-develope) | 📧 [Email](money.dev.solution@gmail.com) 
+💼 [LinkedIn](www.linkedin.com/in/arnaldo-de-melo-developer) | 📧 [Email](money.dev.solution@gmail.com) 
 
 ---
 
