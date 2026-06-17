@@ -1,11 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0F172A&height=220&section=header&text=Arnaldo%20De%20Melo&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<!--
+  SUBSTITUIR PELA TUA FOTO:
+  1. Faz upload da imagem para a pasta /assets deste repositório (ex: assets/banner.jpg)
+  2. Troca o src abaixo por:
+     https://raw.githubusercontent.com/arnaldo-de-melo-dev99/arnaldo-de-melo-dev99/main/assets/banner.jpg
+-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:0F172A&height=220&section=header&text=Arnaldo%20De%20Melo&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;42+Luanda;AI+%26+Cloud+Enthusiast;Building+clean+and+scalable+solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+DevOps+%7C+SEO;42+Luanda+%E2%80%A2+AI+%26+Cloud+Enthusiast;Building+with+React%2C+Vue+%26+Next.js;Clean+code.+Strong+systems.+Real+impact." />
 
-### Software Engineer • 42 Luanda • AI, Cloud & Web Development
-**Focused on building scalable, secure, and impactful digital solutions.**
+### Software Engineer | DevOps | SEO
+**42 Luanda • AI, Cloud & Web Development**
+**A construir soluções escaláveis, seguras e com impacto real.**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnaldo-de-melo-dev99&bg_color=0F172A&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%"/>
 
 </div>
 
@@ -13,11 +22,25 @@
 
 ## Sobre mim
 
-Sou **Arnaldo De Melo**, estudante de **Software Engineering na 42 Luanda**, com foco em criar soluções modernas, robustas e bem estruturadas.
+Sou **Arnaldo De Melo**, Software Engineer formado pela **42 Luanda**, focado em construir produtos digitais sólidos do princípio ao fim — da arquitetura ao deploy.
 
-Tenho interesse em **desenvolvimento web, backend, cloud computing, inteligência artificial e engenharia de software**, com uma abordagem centrada em qualidade de código, performance e experiência do utilizador.
+Trabalho na fronteira entre **engenharia de software, DevOps e otimização para motores de busca (SEO)**, unindo código limpo, infraestrutura confiável e visibilidade real para os produtos que construo. Tenho interesse particular em **cloud computing, inteligência artificial e arquiteturas escaláveis**, sempre com foco em performance, segurança e experiência do utilizador.
 
-O meu objetivo é evoluir continuamente como engenheiro, contribuir para produtos de alto impacto e desenvolver soluções que unam **técnica, clareza e valor real**.
+O que me move é resolver problemas reais com soluções bem pensadas — não apenas código que funciona, mas sistemas que duram, escalam e fazem sentido para quem os usa.
+
+> Tens o texto "Sobre" do teu LinkedIn? Envia-mo e eu ajusto este parágrafo para refletir exatamente a tua voz e percurso.
+
+### Soft Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Comunicação-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Resolução_de_Problemas-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipa-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptabilidade-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pensamento_Crítico-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ownership-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aprendizagem_Contínua-111827?style=for-the-badge" />
+</p>
 
 ---
 
@@ -37,6 +60,8 @@ O meu objetivo é evoluir continuamente como engenheiro, contribuir para produto
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -44,6 +69,7 @@ O meu objetivo é evoluir continuamente como engenheiro, contribuir para produto
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-111827?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
@@ -61,6 +87,7 @@ O meu objetivo é evoluir continuamente como engenheiro, contribuir para produto
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ### Inteligência Artificial
@@ -84,42 +111,40 @@ O meu objetivo é evoluir continuamente como engenheiro, contribuir para produto
 
 <img src="https://streak-stats.demolab.com?user=arnaldo-de-melo-dev99&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arnaldo-de-melo-dev99&theme=dark&no-frame=true&row=1&column=6" />
+
 </div>
+
+**Commits este mês:**
+<!--COMMITS_THIS_MONTH-->A atualizar… (corre depois de configurares o workflow `update-readme.yml`)<!--END_COMMITS_THIS_MONTH-->
+
+> Esta secção é atualizada automaticamente por uma GitHub Action — ver `SETUP.md` para a ativar.
 
 ---
 
-## Projetos em destaque
+## Atividade Recente (animação)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnaldo-de-melo-dev99/arnaldo-de-melo-dev99/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/arnaldo-de-melo-dev99/arnaldo-de-melo-dev99/output/github-snake.svg" width="100%"/>
+</picture>
+
+---
+
+## Projetos em destaque (atualizado automaticamente)
+
+<!--PROJECTS_START-->
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Project One</h3>
-      <p align="center">Solução web focada em utilidade real, boa arquitetura e experiência limpa.</p>
-      <p align="center"><strong>Tech:</strong> React • TypeScript • Node.js • PostgreSQL</p>
-      <p align="center"><a href="https://github.com/arnaldo-de-melo-dev99">Ver repositório</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Two</h3>
-      <p align="center">Aplicação backend com estrutura sólida, segurança e manutenção simples.</p>
-      <p align="center"><strong>Tech:</strong> Python • Django • Docker • AWS</p>
-      <p align="center"><a href="https://github.com/arnaldo-de-melo-dev99">Ver repositório</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Three</h3>
-      <p align="center">Projeto orientado a dados, automação ou inteligência artificial.</p>
-      <p align="center"><strong>Tech:</strong> Python • TensorFlow • Scikit-learn • Flask</p>
-      <p align="center"><a href="https://github.com/arnaldo-de-melo-dev99">Ver repositório</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Four</h3>
-      <p align="center">Projeto técnico com foco em lógica, estrutura e boas práticas.</p>
-      <p align="center"><strong>Tech:</strong> C • C++ • Linux • Git</p>
-      <p align="center"><a href="https://github.com/arnaldo-de-melo-dev99">Ver repositório</a></p>
+    <td width="50%" align="center">
+      <em>Esta secção é gerada em tempo real pela GitHub Action.</em><br/>
+      <em>Os teus repositórios mais recentes vão aparecer aqui automaticamente.</em>
     </td>
   </tr>
 </table>
+<!--PROJECTS_END-->
 
 ---
 
@@ -134,11 +159,11 @@ O meu objetivo é evoluir continuamente como engenheiro, contribuir para produto
 
 ## Objetivos
 
-- Contribuir para projetos open source
-- Evoluir em backend, cloud e IA
-- Publicar projetos mais completos e profissionais
-- Conseguir experiência internacional
-- Tornar-me um engenheiro mais forte e consistente
+- **Contribuir para projetos open source** com impacto real e visibilidade na comunidade
+- **Aprofundar especialização** em backend, cloud computing e inteligência artificial aplicada
+- **Publicar produtos completos e profissionais**, do design ao deploy
+- **Conquistar experiência internacional** em equipas de engenharia de alto nível
+- **Construir uma reputação técnica sólida**, consistente e orientada a resultados
 
 ---
 
