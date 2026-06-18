@@ -243,19 +243,21 @@ async function getGraphQLMonthlyCommits(now) {
   return data?.user?.contributionsCollection?.totalCommitContributions ?? null;
 }
 
-function buildStatsBlock({ profile, projects, monthlyCommits, dominantLanguage, latestProject, now }) {
+function buildStatsBlock({ profile, monthlyCommits, dominantLanguage, latestProject }) {
   const latestProjectName = latestProject ? escapeHtml(latestProject.name) : 'A definir';
   const latestProjectUrl = latestProject ? latestProject.html_url : '#';
 
   return [
-    '<table cellpadding="14" cellspacing="0" border="1" bordercolor="#1F2937" width="100%">',
-    '  <tr>',
-    `    <td align="center" width="25%"><strong>Repos públicos</strong><br/>${profile.public_repos ?? 'A definir'}</td>`,
-    `    <td align="center" width="25%"><strong>Commits este mês</strong><br/>${monthlyCommits ?? 'A definir'}</td>`,
-    `    <td align="center" width="25%"><strong>Linguagem dominante</strong><br/>${escapeHtml(prettifyTech(dominantLanguage))}</td>`,
-    `    <td align="center" width="25%"><strong>Último projeto</strong><br/><a href="${latestProjectUrl}">${latestProjectName}</a></td>`,
-    '  </tr>',
-    '</table>',
+    '<div align="center">',
+    '  <table align="center" cellpadding="10" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">',
+    '    <tr>',
+    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Repos públicos</strong><br/>${profile.public_repos ?? 'A definir'}</td>`,
+    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Commits este mês</strong><br/>${monthlyCommits ?? 'A definir'}</td>`,
+    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Linguagem dominante</strong><br/>${escapeHtml(prettifyTech(dominantLanguage))}</td>`,
+    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Último projeto</strong><br/><a href="${latestProjectUrl}">${latestProjectName}</a></td>`,
+    '    </tr>',
+    '  </table>',
+    '</div>',
   ].join('\n');
 }
 
@@ -276,24 +278,26 @@ function buildProjectsBlock(projects, languagesByRepo) {
   const rows = chunk(cards, 2);
 
   return [
-    '<table cellpadding="14" cellspacing="0" border="1" bordercolor="#1F2937" width="100%">',
+    '<div align="center">',
+    '  <table align="center" cellpadding="12" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">',
     ...rows.map((row) => {
       if (row.length === 2) {
         return [
-          '  <tr>',
-          `    <td width="50%" valign="top" bgcolor="#0B1120">\n${row[0]}\n    </td>`,
-          `    <td width="50%" valign="top" bgcolor="#0B1120">\n${row[1]}\n    </td>`,
-          '  </tr>',
+          '    <tr>',
+          `      <td width="50%" valign="top" bgcolor="#0B1120">\n${row[0]}\n      </td>`,
+          `      <td width="50%" valign="top" bgcolor="#0B1120">\n${row[1]}\n      </td>`,
+          '    </tr>',
         ].join('\n');
       }
 
       return [
-        '  <tr>',
-        `    <td colspan="2" valign="top" bgcolor="#0B1120">\n${row[0]}\n    </td>`,
-        '  </tr>',
+        '    <tr>',
+        `      <td colspan="2" valign="top" bgcolor="#0B1120">\n${row[0]}\n      </td>`,
+        '    </tr>',
       ].join('\n');
     }),
-    '</table>',
+    '  </table>',
+    '</div>',
   ].join('\n');
 }
 
@@ -352,11 +356,9 @@ async function main() {
   const currentReadme = await readFile(README_PATH, 'utf8');
   const statsBlock = buildStatsBlock({
     profile,
-    projects: repos,
     monthlyCommits,
     dominantLanguage,
     latestProject,
-    now,
   });
   const projectsBlock = buildProjectsBlock(repos, languagesByRepo);
 

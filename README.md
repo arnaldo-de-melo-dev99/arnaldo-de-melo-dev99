@@ -31,22 +31,26 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 
 ## Foco
 
-<table cellpadding="14" cellspacing="0" border="1" bordercolor="#1F2937" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Produto</strong><br/>
-      Interfaces claras com Vue.js, Next.js e React.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Backend</strong><br/>
-      APIs e sistemas com Nest.js, Node.js, Django e Flask.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Cloud & SEO</strong><br/>
-      Docker, AWS, GitHub Actions e performance para web.
-    </td>
-  </tr>
-</table>
+<img src="./assets/readme-reveal.svg" width="100%" alt="Animated reveal for focus cards" />
+
+<div align="center">
+  <table align="center" cellpadding="12" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">
+    <tr>
+      <td width="33%" valign="top" bgcolor="#0B1120" align="center">
+        <strong>Produto</strong><br/>
+        Interfaces claras com Vue.js, Next.js e React.
+      </td>
+      <td width="33%" valign="top" bgcolor="#0B1120" align="center">
+        <strong>Backend</strong><br/>
+        APIs e sistemas com Nest.js, Node.js, Django e Flask.
+      </td>
+      <td width="33%" valign="top" bgcolor="#0B1120" align="center">
+        <strong>Cloud & SEO</strong><br/>
+        Docker, AWS, GitHub Actions e performance para web.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -90,15 +94,19 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 
 </div>
 
+<img src="./assets/readme-reveal.svg" width="100%" alt="Animated reveal for realtime cards" />
+
 <!-- AUTO:REALTIME_STATS_START -->
-<table cellpadding="14" cellspacing="0" border="1" bordercolor="#1F2937" width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>Repos públicos</strong><br/>6</td>
-    <td align="center" width="25%"><strong>Commits este mês</strong><br/>14</td>
-    <td align="center" width="25%"><strong>Linguagem dominante</strong><br/>TypeScript</td>
-    <td align="center" width="25%"><strong>Último projeto</strong><br/><a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center" cellpadding="10" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">
+    <tr>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Repos públicos</strong><br/>6</td>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Commits este mês</strong><br/>14</td>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Linguagem dominante</strong><br/>TypeScript</td>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Último projeto</strong><br/><a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></td>
+    </tr>
+  </table>
+</div>
 <!-- AUTO:REALTIME_STATS_END -->
 
 ---
@@ -107,8 +115,11 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 
 > Os projectos abaixo são actualizados automaticamente e aparecem do mais recente para o mais antigo.
 
+<img src="./assets/readme-reveal.svg" width="100%" alt="Animated reveal for project cards" />
+
 <!-- AUTO:PROJECTS_START -->
-<table cellpadding="14" cellspacing="0" border="1" bordercolor="#1F2937" width="100%">
+<div align="center">
+<table align="center" cellpadding="12" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">
   <tr>
     <td width="50%" valign="top" bgcolor="#0B1120">
       <h3><a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
@@ -141,6 +152,7 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
     </td>
   </tr>
 </table>
+</div>
 <!-- AUTO:PROJECTS_END -->
 
 ---
@@ -158,9 +170,9 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" aria-label="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" width="18" height="18" />
+    <img src="./assets/linkedin-icon.svg" alt="LinkedIn" width="18" height="18" />
     &nbsp;
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge" />
   </a>
   <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />

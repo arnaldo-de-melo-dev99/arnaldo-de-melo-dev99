@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180" role="img" aria-label="Animated section reveal">
+  <defs>
+    <linearGradient id="reveal-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020617" stop-opacity="0" />
+      <stop offset="22%" stop-color="#3B82F6" stop-opacity="0.16" />
+      <stop offset="50%" stop-color="#93C5FD" stop-opacity="0.95" />
+      <stop offset="78%" stop-color="#3B82F6" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="reveal-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.45" />
+      <stop offset="55%" stop-color="#3B82F6" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+    <filter id="reveal-blur" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="12" />
+    </filter>
+  </defs>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 92h1464" stroke="#1D4ED8" stroke-opacity="0.12" stroke-width="1" />
+    <path d="M68 92h1464" stroke="url(#reveal-line)" stroke-width="2.4" />
+    <rect x="-260" y="91" width="260" height="4" rx="2" fill="url(#reveal-line)">
+      <animate attributeName="x" values="-260;1600" dur="7.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7.2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g filter="url(#reveal-blur)">
+    <circle cx="152" cy="40" r="68" fill="url(#reveal-glow)">
+      <animate attributeName="r" values="60;84;60" dur="6.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6.6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1458" cy="136" r="62" fill="url(#reveal-glow)">
+      <animate attributeName="r" values="56;78;56" dur="7.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.25;0.7;0.25" dur="7.8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.8s" begin="0s" fill="freeze" />
+    <rect x="116" y="34" width="268" height="90" rx="18" fill="#0B1120" stroke="#1F2937" stroke-width="1.4" />
+    <rect x="132" y="52" width="86" height="8" rx="4" fill="#3B82F6" fill-opacity="0.85" />
+    <rect x="132" y="74" width="176" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.22" />
+    <rect x="132" y="90" width="140" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.18" />
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.16s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.8s" begin="0.16s" fill="freeze" />
+    <rect x="460" y="34" width="268" height="90" rx="18" fill="#0B1120" stroke="#1F2937" stroke-width="1.4" />
+    <rect x="476" y="52" width="100" height="8" rx="4" fill="#3B82F6" fill-opacity="0.85" />
+    <rect x="476" y="74" width="170" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.22" />
+    <rect x="476" y="90" width="148" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.18" />
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.32s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.8s" begin="0.32s" fill="freeze" />
+    <rect x="804" y="34" width="268" height="90" rx="18" fill="#0B1120" stroke="#1F2937" stroke-width="1.4" />
+    <rect x="820" y="52" width="92" height="8" rx="4" fill="#3B82F6" fill-opacity="0.85" />
+    <rect x="820" y="74" width="182" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.22" />
+    <rect x="820" y="90" width="138" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.18" />
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.48s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.8s" begin="0.48s" fill="freeze" />
+    <rect x="1148" y="34" width="268" height="90" rx="18" fill="#0B1120" stroke="#1F2937" stroke-width="1.4" />
+    <rect x="1164" y="52" width="118" height="8" rx="4" fill="#3B82F6" fill-opacity="0.85" />
+    <rect x="1164" y="74" width="168" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.22" />
+    <rect x="1164" y="90" width="134" height="7" rx="3.5" fill="#93C5FD" fill-opacity="0.18" />
+  </g>
+
+  <g fill="#F8FAFC" opacity="0.9">
+    <circle cx="404" cy="124" r="2.2">
+      <animate attributeName="cy" values="124;116;124" dur="4.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.24;1;0.24" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="760" cy="126" r="2.2">
+      <animate attributeName="cy" values="126;118;126" dur="4.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.24;1;0.24" dur="4.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1110" cy="124" r="2.2">
+      <animate attributeName="cy" values="124;116;124" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.24;1;0.24" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1450" cy="126" r="2.2">
+      <animate attributeName="cy" values="126;118;126" dur="4.9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.24;1;0.24" dur="4.9s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
