@@ -267,6 +267,7 @@ function buildProjectCard(repo, languages) {
   const techLine = techs.length ? techs.map(escapeHtml).join(' • ') : 'A definir';
 
   return [
+    '      <img src="./assets/project-card-accent.svg" width="100%" alt="" />',
     `      <h3><a href="${repo.html_url}">${escapeHtml(repo.name)}</a></h3>`,
     `      <p>${description}</p>`,
     `      <p><strong>Techs:</strong> ${techLine}</p>`,

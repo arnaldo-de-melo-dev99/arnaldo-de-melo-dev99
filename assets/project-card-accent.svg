@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" role="img" aria-label="Animated project card accent">
+  <defs>
+    <linearGradient id="project-accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020617" stop-opacity="0" />
+      <stop offset="20%" stop-color="#3B82F6" stop-opacity="0.16" />
+      <stop offset="50%" stop-color="#93C5FD" stop-opacity="0.98" />
+      <stop offset="80%" stop-color="#3B82F6" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="project-accent-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.4" />
+      <stop offset="62%" stop-color="#3B82F6" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+    <filter id="project-accent-blur" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="6" />
+    </filter>
+  </defs>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M20 14h1160" stroke="#1D4ED8" stroke-opacity="0.12" stroke-width="1" />
+    <path d="M20 14h1160" stroke="url(#project-accent-line)" stroke-width="2.4" />
+    <rect x="-180" y="10" width="180" height="8" rx="4" fill="url(#project-accent-line)" opacity="0.98">
+      <animate attributeName="x" values="-180;1200" dur="5.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.18;1;0.18" dur="5.6s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g filter="url(#project-accent-blur)">
+    <circle cx="56" cy="14" r="10" fill="url(#project-accent-glow)">
+      <animate attributeName="r" values="8;14;8" dur="4.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.28;0.78;0.28" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1144" cy="14" r="10" fill="url(#project-accent-glow)">
+      <animate attributeName="r" values="8;14;8" dur="4.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.28;0.72;0.28" dur="4.8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g fill="#F8FAFC" opacity="0.9">
+    <circle cx="162" cy="14" r="1.9">
+      <animate attributeName="cy" values="14;12;14" dur="3.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="438" cy="14" r="1.9">
+      <animate attributeName="cy" values="14;12;14" dur="4.1s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="782" cy="14" r="1.9">
+      <animate attributeName="cy" values="14;12;14" dur="4.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="998" cy="14" r="1.9">
+      <animate attributeName="cy" values="14;12;14" dur="4.7s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.7s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
