@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 130" role="img" aria-label="Animated scroll cue">
+  <defs>
+    <linearGradient id="scroll-outline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020617" stop-opacity="0" />
+      <stop offset="20%" stop-color="#3B82F6" stop-opacity="0.18" />
+      <stop offset="50%" stop-color="#93C5FD" stop-opacity="0.96" />
+      <stop offset="80%" stop-color="#3B82F6" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="scroll-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.48" />
+      <stop offset="58%" stop-color="#3B82F6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+    <filter id="scroll-blur" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="5" />
+    </filter>
+  </defs>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="110" cy="58" r="36" fill="url(#scroll-glow)" filter="url(#scroll-blur)" opacity="0.9">
+      <animate attributeName="r" values="30;42;30" dur="2.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.42;0.9;0.42" dur="2.8s" repeatCount="indefinite" />
+    </circle>
+    <rect x="78" y="16" width="64" height="92" rx="32" fill="none" stroke="#1D4ED8" stroke-opacity="0.32" stroke-width="1.6" />
+    <rect x="78" y="16" width="64" height="92" rx="32" fill="none" stroke="url(#scroll-outline)" stroke-width="2.4" />
+    <path d="M110 26v12" stroke="#F8FAFC" stroke-width="3.2" opacity="0.72" />
+    <circle cx="110" cy="28" r="6" fill="#F8FAFC">
+      <animate attributeName="cy" values="28;72;28" dur="2.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.82;1;0.82" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <path d="M110 110l-14-14h8l6 6 6-6h8z" fill="#F8FAFC">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 6; 0 0" dur="2.4s" repeatCount="indefinite" />
+    </path>
+    <path d="M110 110v4" stroke="#3B82F6" stroke-width="3" opacity="0.72">
+      <animate attributeName="opacity" values="0.22;0.88;0.22" dur="2.4s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>

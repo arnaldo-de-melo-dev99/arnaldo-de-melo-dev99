@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180" role="img" aria-label="Animated ambient divider">
+  <defs>
+    <linearGradient id="ambient-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020617" stop-opacity="0" />
+      <stop offset="18%" stop-color="#3B82F6" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#93C5FD" stop-opacity="0.82" />
+      <stop offset="82%" stop-color="#3B82F6" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="ambient-orb-left" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.42" />
+      <stop offset="55%" stop-color="#3B82F6" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="ambient-orb-right" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.36" />
+      <stop offset="58%" stop-color="#1D4ED8" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#020617" stop-opacity="0" />
+    </radialGradient>
+    <filter id="ambient-blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+    <filter id="ambient-soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+  </defs>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M56 88h1488" stroke="#1D4ED8" stroke-opacity="0.12" stroke-width="1" />
+    <path d="M56 88h1488" stroke="url(#ambient-line)" stroke-width="2.2" />
+    <rect x="-260" y="87" width="260" height="3" rx="2" fill="url(#ambient-line)" opacity="0.95">
+      <animate attributeName="x" values="-260;1600" dur="6.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="6.8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g filter="url(#ambient-blur)">
+    <circle cx="130" cy="36" r="72" fill="url(#ambient-orb-left)">
+      <animate attributeName="r" values="68;90;68" dur="7.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;0.85;0.5" dur="7.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1466" cy="140" r="66" fill="url(#ambient-orb-right)">
+      <animate attributeName="r" values="62;86;62" dur="8.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.42;0.78;0.42" dur="8.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g stroke="#93C5FD" stroke-width="2" opacity="0.42" filter="url(#ambient-soft)">
+    <path d="M228 130h128">
+      <animate attributeName="opacity" values="0.16;0.55;0.16" dur="5.4s" repeatCount="indefinite" />
+    </path>
+    <path d="M1284 42h118">
+      <animate attributeName="opacity" values="0.12;0.42;0.12" dur="6.2s" repeatCount="indefinite" />
+    </path>
+    <path d="M1042 132h162">
+      <animate attributeName="opacity" values="0.1;0.38;0.1" dur="6.8s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <g fill="#3B82F6" opacity="0.92">
+    <circle cx="404" cy="78" r="3.2">
+      <animate attributeName="cy" values="78;68;78" dur="3.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.18;1;0.18" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="612" cy="106" r="2.4">
+      <animate attributeName="cy" values="106;96;106" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.12;0.95;0.12" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="876" cy="66" r="2.8">
+      <animate attributeName="cy" values="66;56;66" dur="3.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1188" cy="104" r="2.2">
+      <animate attributeName="cy" values="104;94;104" dur="4.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.12;0.92;0.12" dur="4.6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1376" cy="78" r="3">
+      <animate attributeName="cy" values="78;68;78" dur="3.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.18;1;0.18" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g fill="#F8FAFC" opacity="0.88">
+    <circle cx="532" cy="34" r="1.8">
+      <animate attributeName="cy" values="34;42;34" dur="4.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.22;1;0.22" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1014" cy="144" r="1.8">
+      <animate attributeName="cy" values="144;136;144" dur="4.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.22;1;0.22" dur="4.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="150" cy="118" r="1.8">
+      <animate attributeName="cy" values="118;110;118" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.18;0.9;0.18" dur="5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
