@@ -66,17 +66,52 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 
 ## Stack
 
+### Linguagens
+
 <p align="left">
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nest.js-111827?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Backend
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-111827?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### Cloud, DevOps e Ferramentas
+
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+### Inteligência Artificial
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
