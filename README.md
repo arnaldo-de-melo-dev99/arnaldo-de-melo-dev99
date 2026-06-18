@@ -208,8 +208,6 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 
 ## Contato
 
-<img src="./assets/readme-reveal.svg" width="100%" alt="Animated reveal for contact section" />
-
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" aria-label="LinkedIn">
     <img src="./assets/linkedin-icon.svg" alt="LinkedIn" width="18" height="18" />
@@ -224,17 +222,8 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
   </a>
 </p>
 
-<div align="center">
-
-**Clean code. Strong systems. Real impact.**
-
-</div>
-
-<img src="./assets/readme-reveal.svg" width="100%" alt="Animated reveal for avatar section" />
+## Avatar
 
 <div align="center">
-  <strong>Avatar</strong><br/><br/>
-  <img src="./assets/readme-avatar.svg" width="360" alt="Professional avatar drinking coffee" />
-  <br />
-  <sub>Professional mode. Coffee ready. Shipping ready.</sub>
+  <img src="./assets/readme-avatar.svg" width="100%" alt="Stickman fleeing code projectiles" />
 </div>
