@@ -209,14 +209,10 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 ## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" aria-label="LinkedIn">
-    <img src="./assets/linkedin-icon.svg" alt="LinkedIn" width="18" height="18" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" aria-label="LinkedIn" title="LinkedIn">🔗</a>
+  &nbsp;&nbsp;
+  <a href="mailto:SEU_EMAIL" aria-label="Email" title="Email">📧</a>
+  &nbsp;&nbsp;
   <a href="https://SEU_PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
