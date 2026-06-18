@@ -209,7 +209,7 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 ## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" aria-label="LinkedIn">
+  <a href="https://linkedin.com/in/arnaldo-de-melo-developer" aria-label="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge" />
   </a>
   <a href="mailto:SEU_EMAIL">
