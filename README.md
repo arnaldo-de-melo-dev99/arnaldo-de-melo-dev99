@@ -221,9 +221,3 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-
-## Avatar
-
-<div align="center">
-  <img src="./assets/readme-avatar.svg" width="100%" alt="Stickman fleeing code projectiles" />
-</div>
