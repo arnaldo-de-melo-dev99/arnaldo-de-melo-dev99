@@ -135,10 +135,10 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
 <div align="center">
   <table align="center" cellpadding="10" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">
     <tr>
-      <td align="center" width="25%" bgcolor="#0B1120"><strong>Repos públicos</strong><br/>6</td>
-      <td align="center" width="25%" bgcolor="#0B1120"><strong>Commits este mês</strong><br/>0</td>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Repos públicos</strong><br/>7</td>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Commits este mês</strong><br/>1</td>
       <td align="center" width="25%" bgcolor="#0B1120"><strong>Linguagem dominante</strong><br/>TypeScript</td>
-      <td align="center" width="25%" bgcolor="#0B1120"><strong>Último projeto</strong><br/><a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></td>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Último projeto</strong><br/><a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></td>
     </tr>
   </table>
 </div>
@@ -158,37 +158,37 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
     <tr>
       <td width="50%" valign="top" bgcolor="#0B1120">
       <img src="./assets/project-card-accent.svg" width="100%" alt="" />
+      <h3><a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></h3>
+      <p>Creating a custom bash shell</p>
+      <p><strong>Techs:</strong> A definir</p>
+      </td>
+      <td width="50%" valign="top" bgcolor="#0B1120">
+      <img src="./assets/project-card-accent.svg" width="100%" alt="" />
       <h3><a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
       <p>Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello.</p>
       <p><strong>Techs:</strong> TypeScript • HTML • JavaScript • CSS</p>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top" bgcolor="#0B1120">
       <img src="./assets/project-card-accent.svg" width="100%" alt="" />
       <h3><a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a></h3>
       <p>Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna.</p>
       <p><strong>Techs:</strong> TypeScript • CSS</p>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top" bgcolor="#0B1120">
       <img src="./assets/project-card-accent.svg" width="100%" alt="" />
       <h3><a href="https://github.com/arnaldo-de-melo-dev99/DS-CEP">DS-CEP</a></h3>
       <p>Ferramenta prática para consulta de CEP em JavaScript, HTML e CSS, com uma interface directa.</p>
       <p><strong>Techs:</strong> JavaScript • CSS • HTML</p>
       </td>
-      <td width="50%" valign="top" bgcolor="#0B1120">
-      <img src="./assets/project-card-accent.svg" width="100%" alt="" />
-      <h3><a href="https://github.com/arnaldo-de-melo-dev99/Note-Pad">Note-Pad</a></h3>
-      <p>Aplicação de notas em React e Tailwind CSS, pensada para capturar ideias com rapidez e clareza.</p>
-      <p><strong>Techs:</strong> TypeScript • HTML • JavaScript • CSS</p>
-      </td>
     </tr>
     <tr>
       <td colspan="2" valign="top" bgcolor="#0B1120">
       <img src="./assets/project-card-accent.svg" width="100%" alt="" />
-      <h3><a href="https://github.com/arnaldo-de-melo-dev99/Web-site-MarketPLace">Web-site-MarketPLace</a></h3>
-      <p>Marketplace de produtos digitais em fase inicial, com base para evoluir em produto e conversão.</p>
-      <p><strong>Techs:</strong> A definir</p>
+      <h3><a href="https://github.com/arnaldo-de-melo-dev99/Note-Pad">Note-Pad</a></h3>
+      <p>Aplicação de notas em React e Tailwind CSS, pensada para capturar ideias com rapidez e clareza.</p>
+      <p><strong>Techs:</strong> TypeScript • HTML • JavaScript • CSS</p>
       </td>
     </tr>
   </table>
