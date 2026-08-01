@@ -136,7 +136,7 @@ Gosto de construir com intenção: menos ruído, mais clareza, mais valor.
   <table align="center" cellpadding="10" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">
     <tr>
       <td align="center" width="25%" bgcolor="#0B1120"><strong>Repos públicos</strong><br/>8</td>
-      <td align="center" width="25%" bgcolor="#0B1120"><strong>Commits este mês</strong><br/>2</td>
+      <td align="center" width="25%" bgcolor="#0B1120"><strong>Commits este mês</strong><br/>0</td>
       <td align="center" width="25%" bgcolor="#0B1120"><strong>Linguagem dominante</strong><br/>TypeScript</td>
       <td align="center" width="25%" bgcolor="#0B1120"><strong>Último projeto</strong><br/><a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a></td>
     </tr>
