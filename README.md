@@ -65,7 +65,7 @@ Sou desenvolvedor focado em transformar ideias em experiências digitais claras 
 
 <!-- AUTO:REALTIME_STATS_START -->
 <p align="center">
-  <strong>9</strong> repositórios públicos &nbsp;•&nbsp; <strong>1</strong> commit este mês &nbsp;•&nbsp; <strong>TypeScript</strong> como linguagem dominante<br/>
+  <strong>9</strong> repositórios públicos &nbsp;•&nbsp; <strong>1</strong> commits este mês &nbsp;•&nbsp; <strong>TypeScript</strong> como linguagem dominante<br/>
   Projeto mais recente: <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a>
 </p>
 <!-- AUTO:REALTIME_STATS_END -->
@@ -90,26 +90,26 @@ Sou desenvolvedor focado em transformar ideias em experiências digitais claras 
     </td>
     <td width="50%" valign="top">
       <h3>02 · <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a></h3>
-      <p>Utilitário C++ para substituir texto em ficheiros, preservando o conteúdo original.</p>
+      <p>A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content.</p>
       <p><code>C++</code> · <code>Makefile</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03 · <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></h3>
-      <p>Criação de uma shell Bash personalizada.</p>
+      <p>Creating a custom bash shell</p>
       <p><code>A definir</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>04 · <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
-      <p>Plataforma visual para organizar objetivos pessoais de forma simples e intuitiva.</p>
+      <p>Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello.</p>
       <p><code>TypeScript</code> · <code>HTML</code> · <code>JavaScript</code> · <code>CSS</code></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>05 · <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a></h3>
-      <p>Projeto em evolução, preparado para crescer sobre uma base moderna.</p>
+      <p>Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna.</p>
       <p><code>TypeScript</code> · <code>CSS</code></p>
     </td>
   </tr>
