@@ -82,14 +82,6 @@ function prettifyTech(value) {
   return TECH_ALIASES.get(key) || value;
 }
 
-function chunk(array, size) {
-  const output = [];
-  for (let index = 0; index < array.length; index += size) {
-    output.push(array.slice(index, index + size));
-  }
-  return output;
-}
-
 function escapeRegExp(value) {
   return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
@@ -248,58 +240,22 @@ function buildStatsBlock({ profile, monthlyCommits, dominantLanguage, latestProj
   const latestProjectUrl = latestProject ? latestProject.html_url : '#';
 
   return [
-    '<div align="center">',
-    '  <table align="center" cellpadding="10" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">',
-    '    <tr>',
-    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Repos públicos</strong><br/>${profile.public_repos ?? 'A definir'}</td>`,
-    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Commits este mês</strong><br/>${monthlyCommits ?? 'A definir'}</td>`,
-    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Linguagem dominante</strong><br/>${escapeHtml(prettifyTech(dominantLanguage))}</td>`,
-    `      <td align="center" width="25%" bgcolor="#0B1120"><strong>Último projeto</strong><br/><a href="${latestProjectUrl}">${latestProjectName}</a></td>`,
-    '    </tr>',
-    '  </table>',
-    '</div>',
+    `- **${profile.public_repos ?? 'A definir'}** repositórios públicos · **${monthlyCommits ?? 'A definir'}** commits este mês · **${escapeHtml(prettifyTech(dominantLanguage))}** como linguagem dominante`,
+    `- Projeto mais recente: <a href="${latestProjectUrl}">${latestProjectName}</a>`,
   ].join('\n');
 }
 
-function buildProjectCard(repo, languages) {
+function buildProjectLine(repo, languages) {
   const description = escapeHtml(PROJECT_COPY[repo.name] || repo.description || 'Projeto em evolução com base pública ainda sem descrição.');
   const techs = getTopTechsFromLanguages(languages);
-  const techLine = techs.length ? techs.map(escapeHtml).join(' • ') : 'A definir';
-
-  return [
-    '      <img src="./assets/project-card-accent.svg" width="100%" alt="" />',
-    `      <h3><a href="${repo.html_url}">${escapeHtml(repo.name)}</a></h3>`,
-    `      <p>${description}</p>`,
-    `      <p><strong>Techs:</strong> ${techLine}</p>`,
-  ].join('\n');
+  const techLine = techs.length ? techs.map((tech) => `\`${escapeHtml(tech)}\``).join(' · ') : '`A definir`';
+  return `- <a href="${repo.html_url}">${escapeHtml(repo.name)}</a> — ${description} ${techLine}`;
 }
 
 function buildProjectsBlock(projects, languagesByRepo) {
-  const cards = projects.map((repo) => buildProjectCard(repo, languagesByRepo[repo.name] || {}));
-  const rows = chunk(cards, 2);
-
-  return [
-    '<div align="center">',
-    '  <table align="center" cellpadding="12" cellspacing="2" border="1" bordercolor="#1F2937" width="92%">',
-    ...rows.map((row) => {
-      if (row.length === 2) {
-        return [
-          '    <tr>',
-          `      <td width="50%" valign="top" bgcolor="#0B1120">\n${row[0]}\n      </td>`,
-          `      <td width="50%" valign="top" bgcolor="#0B1120">\n${row[1]}\n      </td>`,
-          '    </tr>',
-        ].join('\n');
-      }
-
-      return [
-        '    <tr>',
-        `      <td colspan="2" valign="top" bgcolor="#0B1120">\n${row[0]}\n      </td>`,
-        '    </tr>',
-      ].join('\n');
-    }),
-    '  </table>',
-    '</div>',
-  ].join('\n');
+  return projects
+    .map((repo) => buildProjectLine(repo, languagesByRepo[repo.name] || {}))
+    .join('\n');
 }
 
 function replaceBlock(content, startMarker, endMarker, replacement) {
