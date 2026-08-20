@@ -12,11 +12,12 @@
 
 Sou desenvolvedor focado em transformar ideias em experiências digitais claras e eficientes. Trabalho entre front-end, back-end, DevOps e SEO técnico, com atenção à qualidade, performance e facilidade de manutenção.
 
-- 🔭 A construir produtos web modernos e úteis
-- 🌱 A evoluir em Vue.js, Next.js, Nest.js, cloud e SEO técnico
-- 🤝 Aberto a colaboração em projetos com impacto real
-- 📫 Contacto: [arnaldodemelo99@gmail.com](mailto:arnaldodemelo99@gmail.com)
+- 🔭 Full Stack Developer especializado na construção de produtos web modernos, escaláveis e orientados a resultados.
+- ⚙️ Vue.js • Next.js • Nest.js • TypeScript • Cloud • SEO Técnico
+- 🎯 Desenvolvo soluções considerando não apenas os requisitos técnicos, mas também o modelo de negócio, os objetivos do produto e o valor que a tecnologia precisa gerar.
+- 🧩 Meu foco está em transformar problemas reais em software bem arquitetado, performante e sustentável — sem deixar que a tecnologia se afaste da estratégia do negócio.
 
+--𝒄𝒐́𝒅𝒊𝒈𝒐 𝒆𝒙𝒄𝒆𝒍𝒆𝒏𝒕𝒆 𝒔𝒆𝒎 𝒄𝒐𝒏𝒕𝒆𝒙𝒕𝒐 𝒅𝒆 𝒏𝒆𝒈𝒐́𝒄𝒊𝒐 𝒆́ 𝒂𝒑𝒆𝒏𝒂𝒔 𝒔𝒊𝒏𝒕𝒂𝒙𝒆 𝒃𝒐𝒏𝒊𝒕𝒂.-
 ## Stack
 
 <div align="center">
