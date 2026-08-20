@@ -73,61 +73,48 @@ Desenvolvedor focado em construir experiências digitais claras e eficientes. Tr
 </div>
 
 <!-- AUTO:REALTIME_STATS_START -->
-<<<<<<< HEAD
-- **9** repositórios públicos · **1** commits este mês · **TypeScript** como linguagem dominante
-- Projeto mais recente: <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a>
-=======
 <p align="center">
-  <strong>9</strong> repositórios públicos &nbsp;•&nbsp; <strong>1</strong> commit este mês &nbsp;•&nbsp; <strong>TypeScript</strong> como linguagem dominante<br/>
+  <strong>9</strong> repositórios públicos &nbsp;•&nbsp; <strong>1</strong> commits este mês &nbsp;•&nbsp; <strong>TypeScript</strong> como linguagem dominante<br/>
   Projeto mais recente: <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a>
 </p>
->>>>>>> c8d92c2 (feat: update readme icons && card)
 <!-- AUTO:REALTIME_STATS_END -->
 
 ## Projetos em destaque
 
 <!-- AUTO:PROJECTS_START -->
-<<<<<<< HEAD
-- <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a> — My clone repository `A definir`
-- <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a> — A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content. `C++` · `Makefile`
-- <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a> — Creating a custom bash shell `A definir`
-- <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a> — Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello. `TypeScript` · `HTML` · `JavaScript` · `CSS`
-- <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a> — Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna. `TypeScript` · `CSS`
-=======
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a></h3>
       <p>My clone repository</p>
-      <p><code>A definir</code></p>
+      <p>`A definir`</p>
     </td>
     <td width="50%" valign="top">
       <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a></h3>
       <p>A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content.</p>
-      <p><code>C++</code> · <code>Makefile</code></p>
+      <p>`C++` · `Makefile`</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></h3>
       <p>Creating a custom bash shell</p>
-      <p><code>A definir</code></p>
+      <p>`A definir`</p>
     </td>
     <td width="50%" valign="top">
       <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
       <p>Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello.</p>
-      <p><code>TypeScript</code> · <code>HTML</code> · <code>JavaScript</code> · <code>CSS</code></p>
+      <p>`TypeScript` · `HTML` · `JavaScript` · `CSS`</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a></h3>
       <p>Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna.</p>
-      <p><code>TypeScript</code> · <code>CSS</code></p>
+      <p>`TypeScript` · `CSS`</p>
     </td>
   </tr>
 </table>
->>>>>>> c8d92c2 (feat: update readme icons && card)
 <!-- AUTO:PROJECTS_END -->
 
 ---
