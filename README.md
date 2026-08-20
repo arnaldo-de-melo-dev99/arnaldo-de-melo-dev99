@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor focado em transformar ideias em experiências digitais claras e eficientes. Trabalho entre front-end, back-end, DevOps e SEO técnico, com atenção à qualidade, performance e facilidade de manutenção.
 
