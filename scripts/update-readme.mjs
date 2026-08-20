@@ -82,6 +82,14 @@ function prettifyTech(value) {
   return TECH_ALIASES.get(key) || value;
 }
 
+function chunk(array, size) {
+  const output = [];
+  for (let index = 0; index < array.length; index += size) {
+    output.push(array.slice(index, index + size));
+  }
+  return output;
+}
+
 function escapeRegExp(value) {
   return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
@@ -240,22 +248,49 @@ function buildStatsBlock({ profile, monthlyCommits, dominantLanguage, latestProj
   const latestProjectUrl = latestProject ? latestProject.html_url : '#';
 
   return [
-    `- **${profile.public_repos ?? 'A definir'}** repositórios públicos · **${monthlyCommits ?? 'A definir'}** commits este mês · **${escapeHtml(prettifyTech(dominantLanguage))}** como linguagem dominante`,
-    `- Projeto mais recente: <a href="${latestProjectUrl}">${latestProjectName}</a>`,
+    '<p align="center">',
+    `  <strong>${profile.public_repos ?? 'A definir'}</strong> repositórios públicos &nbsp;•&nbsp; <strong>${monthlyCommits ?? 'A definir'}</strong> commits este mês &nbsp;•&nbsp; <strong>${escapeHtml(prettifyTech(dominantLanguage))}</strong> como linguagem dominante<br/>`,
+    `  Projeto mais recente: <a href="${latestProjectUrl}">${latestProjectName}</a>`,
+    '</p>',
   ].join('\n');
 }
 
-function buildProjectLine(repo, languages) {
+function buildProjectCard(repo, languages) {
   const description = escapeHtml(PROJECT_COPY[repo.name] || repo.description || 'Projeto em evolução com base pública ainda sem descrição.');
   const techs = getTopTechsFromLanguages(languages);
   const techLine = techs.length ? techs.map((tech) => `\`${escapeHtml(tech)}\``).join(' · ') : '`A definir`';
-  return `- <a href="${repo.html_url}">${escapeHtml(repo.name)}</a> — ${description} ${techLine}`;
+
+  return [
+    `      <h3>📌 <a href="${repo.html_url}">${escapeHtml(repo.name)}</a></h3>`,
+    `      <p>${description}</p>`,
+    `      <p>${techLine}</p>`,
+  ].join('\n');
 }
 
 function buildProjectsBlock(projects, languagesByRepo) {
-  return projects
-    .map((repo) => buildProjectLine(repo, languagesByRepo[repo.name] || {}))
-    .join('\n');
+  const cards = projects.map((repo) => buildProjectCard(repo, languagesByRepo[repo.name] || {}));
+  const rows = chunk(cards, 2);
+
+  return [
+    '<table>',
+    ...rows.map((row) => {
+      if (row.length === 2) {
+        return [
+          '  <tr>',
+          `    <td width="50%" valign="top">\n${row[0]}\n    </td>`,
+          `    <td width="50%" valign="top">\n${row[1]}\n    </td>`,
+          '  </tr>',
+        ].join('\n');
+      }
+
+      return [
+        '  <tr>',
+        `    <td colspan="2" valign="top">\n${row[0]}\n    </td>`,
+        '  </tr>',
+      ].join('\n');
+    }),
+    '</table>',
+  ].join('\n');
 }
 
 function replaceBlock(content, startMarker, endMarker, replacement) {
