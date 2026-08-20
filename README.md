@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://github.com/arnaldo-de-melo-dev99.png?size=160" width="128" height="128" alt="Foto de perfil de Arnaldo de Melo" />
-  <h1>Arnaldo de Melo</h1>
-  <p><strong>Software Engineer</strong> · Full Stack · DevOps · SEO</p>
   <p>Construo produtos digitais simples, performantes e escaláveis.</p>
 
   <a href="https://linkedin.com/in/arnaldo-de-melo-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
