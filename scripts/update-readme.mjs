@@ -258,7 +258,9 @@ function buildStatsBlock({ profile, monthlyCommits, dominantLanguage, latestProj
 function buildProjectCard(repo, languages, index) {
   const description = escapeHtml(PROJECT_COPY[repo.name] || repo.description || 'Projeto em evolução com base pública ainda sem descrição.');
   const techs = getTopTechsFromLanguages(languages);
-  const techLine = techs.length ? techs.map((tech) => `\`${escapeHtml(tech)}\``).join(' · ') : '`A definir`';
+  const techLine = techs.length
+    ? techs.map((tech) => `<code>${escapeHtml(tech)}</code>`).join(' · ')
+    : '<code>A definir</code>';
 
   return [
     `      <h3>${String(index + 1).padStart(2, '0')} · <a href="${repo.html_url}">${escapeHtml(repo.name)}</a></h3>`,

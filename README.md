@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Arnaldo de Melo</h1>
-  <p><strong>Software Engineer</strong> · DevOps · SEO</p>
-  <p>Construo produtos web úteis, rápidos e escaláveis.</p>
-
+  <img src="./assets/profile-hero.svg" width="100%" alt="Arnaldo de Melo — Software Engineer" />
+  <br/><br/>
   <a href="https://linkedin.com/in/arnaldo-de-melo-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arnaldodemelo99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -11,7 +9,23 @@
 
 ## Sobre mim
 
-Desenvolvedor focado em experiências digitais claras e eficientes. Trabalho entre front-end, back-end, DevOps e SEO técnico, com atenção a performance, manutenção e impacto no produto.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Construo soluções digitais com propósito.</h3>
+      <p>Desenvolvedor focado em experiências claras e eficientes. Trabalho entre front-end, back-end, DevOps e SEO técnico, com atenção a performance, manutenção e impacto no produto.</p>
+      <p><a href="mailto:arnaldodemelo99@gmail.com"><strong>Vamos conversar →</strong></a></p>
+    </td>
+    <td width="21%" align="center" valign="middle">
+      <strong>Full stack</strong><br/>
+      <sub>Web & APIs</sub>
+    </td>
+    <td width="21%" align="center" valign="middle">
+      <strong>DevOps</strong><br/>
+      <sub>Cloud & entrega</sub>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
@@ -90,37 +104,39 @@ Desenvolvedor focado em experiências digitais claras e eficientes. Trabalho ent
 
 ## Projetos em destaque
 
+<p>Alguns projetos que refletem o meu foco em produtos claros, ferramentas úteis e bases técnicas sólidas.</p>
+
 <!-- AUTO:PROJECTS_START -->
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>01 · <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a></h3>
       <p>My clone repository</p>
-      <p>`A definir`</p>
+      <p><code>A definir</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a></h3>
       <p>A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content.</p>
-      <p>`C++` · `Makefile`</p>
+      <p><code>C++</code> · <code>Makefile</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03 · <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></h3>
       <p>Creating a custom bash shell</p>
-      <p>`A definir`</p>
+      <p><code>A definir</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>04 · <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
       <p>Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello.</p>
-      <p>`TypeScript` · `HTML` · `JavaScript` · `CSS`</p>
+      <p><code>TypeScript</code> · <code>HTML</code> · <code>JavaScript</code> · <code>CSS</code></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>05 · <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a></h3>
       <p>Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna.</p>
-      <p>`TypeScript` · `CSS`</p>
+      <p><code>TypeScript</code> · <code>CSS</code></p>
     </td>
   </tr>
 </table>
