@@ -20,7 +20,7 @@ Sou desenvolvedor focado em transformar ideias em experiências digitais claras 
 - 🤝 Aberto a colaboração em projetos com impacto real
 - 📫 Contacto: [arnaldodemelo99@gmail.com](mailto:arnaldodemelo99@gmail.com)
 
-## 🧰 Tech Stack
+## Stack
 
 <div align="center">
   <h3>Linguagens</h3>
@@ -49,74 +49,7 @@ Sou desenvolvedor focado em transformar ideias em experiências digitais claras 
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
-
-  <h3>Inteligência artificial</h3>
-  <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" />
-  <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" />
-  <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" />
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arnaldo-de-melo-dev99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldo-de-melo-dev99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
-</div>
-
-<!-- AUTO:REALTIME_STATS_START -->
-<p align="center">
-  <strong>9</strong> repositórios públicos &nbsp;•&nbsp; <strong>1</strong> commits este mês &nbsp;•&nbsp; <strong>TypeScript</strong> como linguagem dominante<br/>
-  Projeto mais recente: <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a>
-</p>
-<!-- AUTO:REALTIME_STATS_END -->
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnaldo-de-melo-dev99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="Conquistas no GitHub" />
-</div>
-
-## 📌 Projetos em destaque
-
-<p>Projetos públicos que demonstram o meu trabalho e evolução técnica.</p>
-
-<!-- AUTO:PROJECTS_START -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 · <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a></h3>
-      <p>My clone repository</p>
-      <p><code>A definir</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 · <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a></h3>
-      <p>A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content.</p>
-      <p><code>C++</code> · <code>Makefile</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></h3>
-      <p>Creating a custom bash shell</p>
-      <p><code>A definir</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
-      <p>Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello.</p>
-      <p><code>TypeScript</code> · <code>HTML</code> · <code>JavaScript</code> · <code>CSS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>05 · <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a></h3>
-      <p>Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna.</p>
-      <p><code>TypeScript</code> · <code>CSS</code></p>
-    </td>
-  </tr>
-</table>
-<!-- AUTO:PROJECTS_END -->
-
----
 
 <div align="center">
   <p><strong>Vamos construir algo útil?</strong></p>
