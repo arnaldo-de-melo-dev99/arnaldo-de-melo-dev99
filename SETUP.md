@@ -40,12 +40,6 @@ GITHUB_USERNAME=arnaldo-de-melo-dev99 PROJECT_LIMIT=5 node scripts/update-readme
 - `README_PATH`: caminho do README a actualizar.
 - `README_GITHUB_TOKEN`: token opcional para chamadas autenticadas.
 
-## Banner
-
-- O README usa `./assets/arnaldo.png` como banner principal.
-- Se quiseres trocar a imagem, basta substituir esse ficheiro por outro com o mesmo nome.
-- Mantém a imagem em formato largo para o banner continuar elegante no GitHub.
-
 ## Como o bloco de projectos funciona
 
 - Os repositórios são ordenados pela data de criação.
