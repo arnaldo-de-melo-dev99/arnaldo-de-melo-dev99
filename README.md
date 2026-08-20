@@ -67,18 +67,18 @@ Sou um Software Engineer com foco em front-end, back-end, DevOps e SEO técnico.
 </p>
 
 <!-- AUTO:REALTIME_STATS_START -->
-- **9** repositórios públicos · **1** commit este mês · **TypeScript** como linguagem dominante
-- Projeto mais recente: [skills-introduction-to-github](https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github)
+- **9** repositórios públicos · **1** commits este mês · **TypeScript** como linguagem dominante
+- Projeto mais recente: <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a>
 <!-- AUTO:REALTIME_STATS_END -->
 
 ## Projetos em destaque
 
 <!-- AUTO:PROJECTS_START -->
-- [skills-introduction-to-github](https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github) — My clone repository. `A definir`
-- [FileReplace](https://github.com/arnaldo-de-melo-dev99/FileReplace) — A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content. `C++` · `Makefile`
-- [animate-bash](https://github.com/arnaldo-de-melo-dev99/animate-bash) — Creating a custom bash shell. `A definir`
-- [Goals-Plane](https://github.com/arnaldo-de-melo-dev99/Goals-Plane) — Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello. `TypeScript` · `HTML` · `JavaScript` · `CSS`
-- [event-connect](https://github.com/arnaldo-de-melo-dev99/event-connect) — Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna. `TypeScript` · `CSS`
+- <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a> — My clone repository `A definir`
+- <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a> — A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content. `C++` · `Makefile`
+- <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a> — Creating a custom bash shell `A definir`
+- <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a> — Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello. `TypeScript` · `HTML` · `JavaScript` · `CSS`
+- <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a> — Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna. `TypeScript` · `CSS`
 <!-- AUTO:PROJECTS_END -->
 
 ## Contacto
