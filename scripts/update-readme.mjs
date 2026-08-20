@@ -255,20 +255,20 @@ function buildStatsBlock({ profile, monthlyCommits, dominantLanguage, latestProj
   ].join('\n');
 }
 
-function buildProjectCard(repo, languages) {
+function buildProjectCard(repo, languages, index) {
   const description = escapeHtml(PROJECT_COPY[repo.name] || repo.description || 'Projeto em evolução com base pública ainda sem descrição.');
   const techs = getTopTechsFromLanguages(languages);
   const techLine = techs.length ? techs.map((tech) => `\`${escapeHtml(tech)}\``).join(' · ') : '`A definir`';
 
   return [
-    `      <h3>📌 <a href="${repo.html_url}">${escapeHtml(repo.name)}</a></h3>`,
+    `      <h3>${String(index + 1).padStart(2, '0')} · <a href="${repo.html_url}">${escapeHtml(repo.name)}</a></h3>`,
     `      <p>${description}</p>`,
     `      <p>${techLine}</p>`,
   ].join('\n');
 }
 
 function buildProjectsBlock(projects, languagesByRepo) {
-  const cards = projects.map((repo) => buildProjectCard(repo, languagesByRepo[repo.name] || {}));
+  const cards = projects.map((repo, index) => buildProjectCard(repo, languagesByRepo[repo.name] || {}, index));
   const rows = chunk(cards, 2);
 
   return [

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Arnaldo de Melo</h1>
   <p><strong>Software Engineer</strong> · DevOps · SEO</p>
-  <p>Transformo ideias em produtos web úteis, rápidos e escaláveis.</p>
+  <p>Construo produtos web úteis, rápidos e escaláveis.</p>
 
   <a href="https://linkedin.com/in/arnaldo-de-melo-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arnaldodemelo99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -11,59 +11,68 @@
 
 ## Sobre mim
 
-Desenvolvedor focado em construir experiências digitais claras e eficientes. Trabalho entre front-end, back-end, DevOps e SEO técnico, sempre com atenção a performance, manutenção e impacto no produto.
+Desenvolvedor focado em experiências digitais claras e eficientes. Trabalho entre front-end, back-end, DevOps e SEO técnico, com atenção a performance, manutenção e impacto no produto.
 
 ## Stack
 
-### Linguagens
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-### Front-end
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Back-end
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-### Cloud, DevOps e ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-### Inteligência artificial
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌘ Linguagens</h3>
+      <p>
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Front-end</h3>
+      <p>
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◉ Back-end</h3>
+      <p>
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="Nest.js" title="Nest.js" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁ Cloud & DevOps</h3>
+      <p>
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>✦ Inteligência artificial</h3>
+      <p>
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" />
+        <img width="38" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" />
+        <strong>&nbsp; Machine Learning</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub em números
 
@@ -74,7 +83,7 @@ Desenvolvedor focado em construir experiências digitais claras e eficientes. Tr
 
 <!-- AUTO:REALTIME_STATS_START -->
 <p align="center">
-  <strong>9</strong> repositórios públicos &nbsp;•&nbsp; <strong>1</strong> commits este mês &nbsp;•&nbsp; <strong>TypeScript</strong> como linguagem dominante<br/>
+  <strong>9</strong> repositórios públicos &nbsp;•&nbsp; <strong>1</strong> commit este mês &nbsp;•&nbsp; <strong>TypeScript</strong> como linguagem dominante<br/>
   Projeto mais recente: <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a>
 </p>
 <!-- AUTO:REALTIME_STATS_END -->
@@ -85,33 +94,33 @@ Desenvolvedor focado em construir experiências digitais claras e eficientes. Tr
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a></h3>
+      <h3>01 · <a href="https://github.com/arnaldo-de-melo-dev99/skills-introduction-to-github">skills-introduction-to-github</a></h3>
       <p>My clone repository</p>
-      <p>`A definir`</p>
+      <p><code>A definir</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a></h3>
-      <p>A lightweight C++ utility that reads a text file, replaces all occurrences of a target string with a new one, and generates a new output file while preserving the original content.</p>
-      <p>`C++` · `Makefile`</p>
+      <h3>02 · <a href="https://github.com/arnaldo-de-melo-dev99/FileReplace">FileReplace</a></h3>
+      <p>Utilitário C++ para substituir texto em ficheiros, preservando sempre o conteúdo original.</p>
+      <p><code>C++</code> · <code>Makefile</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></h3>
-      <p>Creating a custom bash shell</p>
-      <p>`A definir`</p>
+      <h3>03 · <a href="https://github.com/arnaldo-de-melo-dev99/animate-bash">animate-bash</a></h3>
+      <p>Criação de uma shell Bash personalizada.</p>
+      <p><code>A definir</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
-      <p>Plataforma digital para planear e organizar objectivos pessoais, com uma experiência visual simples e intuitiva, à maneira de um Trello.</p>
-      <p>`TypeScript` · `HTML` · `JavaScript` · `CSS`</p>
+      <h3>04 · <a href="https://github.com/arnaldo-de-melo-dev99/Goals-Plane">Goals-Plane</a></h3>
+      <p>Plataforma visual para organizar objetivos pessoais de forma simples e intuitiva.</p>
+      <p><code>TypeScript</code> · <code>HTML</code> · <code>JavaScript</code> · <code>CSS</code></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>📌 <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a></h3>
-      <p>Projecto em TypeScript e CSS em evolução, preparado para crescer com uma base limpa e moderna.</p>
-      <p>`TypeScript` · `CSS`</p>
+      <h3>05 · <a href="https://github.com/arnaldo-de-melo-dev99/event-connect">event-connect</a></h3>
+      <p>Projeto em evolução, preparado para crescer sobre uma base moderna.</p>
+      <p><code>TypeScript</code> · <code>CSS</code></p>
     </td>
   </tr>
 </table>
