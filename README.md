@@ -15,8 +15,11 @@ Software Engineer com foco no desenvolvimento de sistemas escaláveis e soluçõ
 Movido pela inovação e pelo aprendizado contínuo, dedico-me à criação de tecnologias capazes de resolver problemas reais e gerar impacto em escala global. Combinação sólida capacidade analítica, pensamento sistêmico e visão empreendedora para transformar ideias em produtos digitais de alto desempenho.
 
 - 🔭 Full Stack Developer especializado na construção de produtos web modernos, escaláveis e orientados a resultados.
+  
 - ⚙️ Desenvolvo soluções com uma abordagem orientada a arquitetura, performance, escalabilidade e experiência do utilizador, considerando desde a estrutura técnica do produto até a forma como ele é descoberto, compreendido e utilizado.
+  
 - 🎯 Integro SEO técnico e AEO (Answer Engine Optimization) à arquitetura dos produtos, trabalhando aspectos como estrutura semântica, dados estruturados, rastreabilidade, indexação, performance, acessibilidade, conteúdo orientado à intenção de pesquisa e otimização para mecanismos de resposta baseados em IA.
+  
 - 🧩 A tecnologia deve servir ao produto — não o contrário. Por isso, procuro transformar requisitos e problemas de negócio em soluções tecnicamente sustentáveis, mensuráveis e coerentes com o modelo de negócio, sem criar complexidade que não gere valor.
 
 ## Stack
