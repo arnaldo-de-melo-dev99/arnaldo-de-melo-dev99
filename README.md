@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Desemvolvedor de softwares, criando soluções escaláveis focando no contexto e no modelo de negócio.</p>
+  <h1>Desemvolvedor de softwares, criando soluções escaláveis com base o contexto e no modelo de negócio.</h1>
 
   <a href="https://linkedin.com/in/arnaldo-de-melo-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arnaldodemelo99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
