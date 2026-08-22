@@ -54,6 +54,6 @@ Movido pela inovação e pelo aprendizado contínuo, dedico-me à criação de t
 
 <div align="center">
   𝒄𝒐́𝒅𝒊𝒈𝒐 𝒆𝒙𝒄𝒆𝒍𝒆𝒏𝒕𝒆 𝒔𝒆𝒎 𝒄𝒐𝒏𝒕𝒆𝒙𝒕𝒐 𝒅𝒆 𝒏𝒆𝒈𝒐́𝒄𝒊𝒐 𝒆́ 𝒂𝒑𝒆𝒏𝒂𝒔 𝒔𝒊𝒏𝒕𝒂𝒙𝒆 𝒃𝒐𝒏𝒊𝒕𝒂.-
-  <p><strong>Vamos construir com base na utilidade</strong></p>
+  <p><strong>Criando soluções focando na dor do cliente</strong></p>
   <a href="mailto:arnaldodemelo99@gmail.com">Entre em contacto</a> · <a href="https://linkedin.com/in/arnaldo-de-melo-developer">LinkedIn</a>
 </div>
