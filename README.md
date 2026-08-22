@@ -10,14 +10,15 @@
 
 ## Sobre mim
 
-Sou desenvolvedor focado em transformar ideias em experiências digitais claras e eficientes. Trabalho entre front-end, back-end, DevOps e SEO técnico, com atenção à qualidade, performance e facilidade de manutenção.
+Software Engineer com foco no desenvolvimento de sistemas escaláveis e soluções orientadas por dados. Sou apaixonado por Engenharia de Software, Inteligência Artificial, Machine Learning, Computação em Nuvem e Desenvolvimento Web, possuo também conhecimentos em SEO e otimização de produtos digitais.
+
+Movido pela inovação e pelo aprendizado contínuo, dedico-me à criação de tecnologias capazes de resolver problemas reais e gerar impacto em escala global. Combinação sólida capacidade analítica, pensamento sistêmico e visão empreendedora para transformar ideias em produtos digitais de alto desempenho.
 
 - 🔭 Full Stack Developer especializado na construção de produtos web modernos, escaláveis e orientados a resultados.
 - ⚙️ Vue.js • Next.js • Nest.js • TypeScript • Cloud • SEO Técnico
 - 🎯 Desenvolvo soluções considerando não apenas os requisitos técnicos, mas também o modelo de negócio, os objetivos do produto e o valor que a tecnologia precisa gerar.
 - 🧩 Meu foco está em transformar problemas reais em software bem arquitetado, performante e sustentável — sem deixar que a tecnologia se afaste da estratégia do negócio.
 
---𝒄𝒐́𝒅𝒊𝒈𝒐 𝒆𝒙𝒄𝒆𝒍𝒆𝒏𝒕𝒆 𝒔𝒆𝒎 𝒄𝒐𝒏𝒕𝒆𝒙𝒕𝒐 𝒅𝒆 𝒏𝒆𝒈𝒐́𝒄𝒊𝒐 𝒆́ 𝒂𝒑𝒆𝒏𝒂𝒔 𝒔𝒊𝒏𝒕𝒂𝒙𝒆 𝒃𝒐𝒏𝒊𝒕𝒂.-
 ## Stack
 
 <div align="center">
@@ -52,6 +53,7 @@ Sou desenvolvedor focado em transformar ideias em experiências digitais claras 
 </div>
 
 <div align="center">
+  𝒄𝒐́𝒅𝒊𝒈𝒐 𝒆𝒙𝒄𝒆𝒍𝒆𝒏𝒕𝒆 𝒔𝒆𝒎 𝒄𝒐𝒏𝒕𝒆𝒙𝒕𝒐 𝒅𝒆 𝒏𝒆𝒈𝒐́𝒄𝒊𝒐 𝒆́ 𝒂𝒑𝒆𝒏𝒂𝒔 𝒔𝒊𝒏𝒕𝒂𝒙𝒆 𝒃𝒐𝒏𝒊𝒕𝒂.-
   <p><strong>Vamos construir algo útil?</strong></p>
   <a href="mailto:arnaldodemelo99@gmail.com">Entre em contacto</a> · <a href="https://linkedin.com/in/arnaldo-de-melo-developer">LinkedIn</a>
 </div>
