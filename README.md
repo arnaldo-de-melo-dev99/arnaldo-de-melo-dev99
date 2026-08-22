@@ -40,7 +40,7 @@ Movido pela inovação e pelo aprendizado contínuo, dedico-me à criação de t
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />
 
-  <h3>Back-end, Cloud & DevOps</h3>
+  <h3>Back-end</h3>
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" />
   <img width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="Nest.js" title="Nest.js" />
